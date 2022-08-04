@@ -4,6 +4,6 @@
 3. I like travelling
 
 
-Here is a picture of me:
+Here is a [picture of me.](/me.jpg)
 
-<image src="/me.jpg" alt="My pic" width="150" height="160">
+
